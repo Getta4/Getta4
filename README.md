@@ -1,4 +1,8 @@
-## Hi there 👋
+## やっほ～ 👋
+**＝ (Get4_,げた)** です。
+
+PythonやJavaScriptメインで開発してる初心者プログラマーです。
+わからないことだらけですが頑張って書いてます。
 
 <!--
 **Getta4/Getta4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

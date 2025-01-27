@@ -12,7 +12,7 @@ PythonやJavaScriptメインで開発してる初心者プログラマーです�
 ### Follow me!! ###
 [![twitter](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/Get4_)
 [![youtube](https://badgen.net/badge/icon/YouTube?icon=chrome&label&color=red)](https://youtube.com/@Getq_)
-[![github](https://badgen.net/badge/icon/Github?icon=github&label&color=black)](https://youtube.com/@Getq_)
+[![github](https://badgen.net/badge/icon/Github?icon=github&label&color=black)](https://github.com/Getta4)
 
 <!--
 **Getta4/Getta4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

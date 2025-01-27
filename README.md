@@ -5,7 +5,7 @@
 
 PythonやJavaScriptメインで開発してる初心者プログラマーです。
 
-2025年からの総コード時間↓
+コード時間や頑張ってる言語などはWakatimeから見れます。
 
 [![wakatime](https://wakatime.com/badge/user/be6dbf3e-4d04-4ceb-981a-b683c45b90c0.svg)](https://wakatime.com/@be6dbf3e-4d04-4ceb-981a-b683c45b90c0)
 

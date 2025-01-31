@@ -1,4 +1,4 @@
-![https://typograssy.deno.dev/api?text=Welcome%20@Getta4_!!](https://typograssy.deno.dev/api?text=Welcome!!&l0=161b22&bg=0d1117&frame=3d444d&comment=)
+![https://typograssy.deno.dev/api?text=Welcome%20@Getta4_!!](https://typograssy.deno.dev/api?text=Welcome!!&l0=161b22&l1=006d32&l2=26a641&l3=26a641&l4=39d353&bg=0d1117&frame=3d444d&comment=)
 # **＝ (Get4_,げた)** です。 #
 
 ## About me ##

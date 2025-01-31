@@ -9,6 +9,8 @@ PythonやJavaScriptメインで開発してる初心者プログラマーです�
 
 [![wakatime](https://wakatime.com/badge/user/be6dbf3e-4d04-4ceb-981a-b683c45b90c0.svg)](https://wakatime.com/@be6dbf3e-4d04-4ceb-981a-b683c45b90c0)
 
+<img src="https://wakatime.com/share/@Get4_/fd88e52a-fea5-4ee8-9321-9d4cb90e4618.svg" width="600px" height="300px">
+
 ### Follow me!! ###
 [![twitter](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/Get4_)
 [![youtube](https://badgen.net/badge/icon/YouTube?icon=chrome&label&color=red)](https://youtube.com/@Getq_)

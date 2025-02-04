@@ -3,27 +3,26 @@
 
 ## About me ##
 
-PythonやJavaScriptメインで開発してる初心者プログラマーです。
-
-コード時間や頑張ってる言語などはWakatimeから見れます。
+PythonやJavaScriptメインで開発してる初心者プログラマーです。  
+コード時間や頑張ってる言語などはWakatimeから見れます。  
 
 [![wakatime](https://wakatime.com/badge/user/be6dbf3e-4d04-4ceb-981a-b683c45b90c0.svg)](https://wakatime.com/@be6dbf3e-4d04-4ceb-981a-b683c45b90c0)
 
-### Follow me!! ###
+## Follow me!! ##
 <!-- 旧バッジ
 [![twitter](https://badgen.net/badge/icon/Twitter?icon=twitter&label)](https://twitter.com/Get4_)
 [![youtube](https://badgen.net/badge/icon/YouTube?icon=chrome&label&color=red)](https://youtube.com/@Getq_)
 [![github](https://badgen.net/badge/icon/Github?icon=github&label&color=black)](https://github.com/Getta4)
 -->
 <!--バッジは https://shields.io/badges/static-badge で作れます https://note.com/sphere_/n/n3e58818ccf5c とか見るとわかりやすい-->
-#### sites ####
+### sites ###
 [![サイト](https://img.shields.io/badge/Getan9.com%2FWeb%2F-272727?style=flat&logo=homepage&logoColor=fff&labelColor=%234285F4&color=383838&link=https%3A%2F%2FGetan9.com%2FWeb%2F)](https://Getan9.com/Web/)
 [![Notion](https://img.shields.io/badge/音ゲー設置情報-272727?style=flat&logo=notion&logoColor=fff&labelColor=%23202020&color=383838&link=https://get4.notion.site/)](https://get4.notion.site/)  
-#### SNS ####
+### SNS ###
 [![Github](https://img.shields.io/badge/%2FGetta4-272727?style=flat&logo=github&logoColor=fff&labelColor=272727&color=383838&link=https%3A%2F%2Fgithub.com%2FGetta4%2F)](https://github.com/Getta4)
 [![X](https://img.shields.io/badge/%40Get4__-272727?style=flat&logo=X&logoColor=fff&labelColor=060708&color=383838&link=https%3A%2F%2Fx.com%2FGet4_)](https://twitter.com/@Get4_)
 [![YouTube](https://img.shields.io/badge/%40Getq__-272727?style=flat&logo=youtube&logoColor=fff&labelColor=D94030&color=383838&link=https%3A%2F%2Fwww.youtube.com%2F%40Getq_)](https://www.youtube.com/@Getq_)
-[![Discord](https://img.shields.io/badge/get4__-272727?style=flat&logo=Discord&logoColor=fff&labelColor=%235865F2&color=383838)]()
+[![Discord](https://img.shields.io/badge/get4__-272727?style=flat&logo=Discord&logoColor=fff&labelColor=%235865F2&color=383838)](https://discord.com/app/)
 
 
 

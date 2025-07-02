@@ -23,7 +23,7 @@ PythonやJavaScriptメインで開発してる初心者プログラマーです�
 
 ### sites ###
 
-[![サイト](https://img.shields.io/badge/gtnk.xyz%2F-272727?style=flat&logo=homepage&logoColor=fff&labelColor=%234285F4&color=383838&link=https%3A%2F%2FGetan9.com%2FWeb%2F)](https://gtnk.xyz)
+[![サイト](https://img.shields.io/badge/gtnk.xyz-272727?style=flat&logo=homepage&logoColor=fff&labelColor=%234285F4&color=383838&link=https%3A%2F%2FGetan9.com%2FWeb%2F)](https://gtnk.xyz)
 [![Notion](https://img.shields.io/badge/音ゲー設置情報-272727?style=flat&logo=notion&logoColor=fff&labelColor=%23202020&color=383838&link=https://get4.notion.site/)](https://get4.notion.site/)  
 
 ### SNS ###

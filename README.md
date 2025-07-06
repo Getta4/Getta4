@@ -9,8 +9,8 @@ PythonやJavaScriptメインで開発してる初心者プログラマーです�
 
 [![wakatime](https://wakatime.com/badge/user/be6dbf3e-4d04-4ceb-981a-b683c45b90c0.svg)](https://wakatime.com/@be6dbf3e-4d04-4ceb-981a-b683c45b90c0)
 
-![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=5954&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)
+[![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=5954&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)](https://hackatime.hackclub.com/)
 
 ## Follow me!! ##
 

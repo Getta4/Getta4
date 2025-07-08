@@ -2,6 +2,8 @@
 
 # **＝ (Get4_,げた)** です。 #
 
+![status](https://api.statusbadges.me/badge/status/957152000313786459) ![playing](https://api.statusbadges.me/badge/playing/957152000313786459) ![vscode](https://api.statusbadges.me/badge/vscode/957152000313786459)
+
 ## About me ##
 
 PythonやJavaScriptメインで開発してる初心者プログラマーです。  

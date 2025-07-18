@@ -1,6 +1,6 @@
 ![https://typograssy.deno.dev/api?text=Welcome%20@Getta4_!!](https://typograssy.deno.dev/api?text=Welcome!!&l0=161b22&l1=006d32&l2=26a641&l3=26a641&l4=39d353&bg=0d1117&frame=3d444d)
 
-# **＝ (Get4_,げた)** です。 #
+# **下駄** です。 #
 <!--https://statusbadges.me/-->
 ![status](https://api.statusbadges.me/badge/status/957152000313786459) ![playing](https://api.statusbadges.me/badge/playing/957152000313786459) ![vscode](https://api.statusbadges.me/badge/vscode/957152000313786459)
 
@@ -26,7 +26,6 @@ PythonやJavaScriptメインで開発してる初心者プログラマーです�
 ### sites ###
 
 [![サイト](https://img.shields.io/badge/gtnk.xyz-272727?style=flat&logo=homepage&logoColor=fff&labelColor=%234285F4&color=383838&link=https%3A%2F%2FGetan9.com%2FWeb%2F)](https://gtnk.xyz)
-[![Notion](https://img.shields.io/badge/音ゲー設置情報-272727?style=flat&logo=notion&logoColor=fff&labelColor=%23202020&color=383838&link=https://get4.notion.site/)](https://get4.notion.site/)  
 
 ### SNS ###
 

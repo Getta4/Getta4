@@ -1,6 +1,4 @@
-<!-- typograssyが使えないため一時的に非表示
-![https://typograssy.deno.dev/api?text=Welcome%20@Getta4_!!](https://typograssy.deno.dev/api?text=Welcome!!&l0=161b22&l1=006d32&l2=26a641&l3=26a641&l4=39d353&bg=0d1117&frame=3d444d) 
--->
+![https://typograssy.kawarimidoll.deno.net/api?text=Welcome%20@Getta4_!!](https://typograssy.kawarimidoll.deno.net/api?text=Welcome!!&l0=161b22&l1=006d32&l2=26a641&l3=26a641&l4=39d353&bg=0d1117&frame=3d444d) 
 
 <!--https://statusbadges.me/-->
 ![status](https://api.statusbadges.me/badge/status/957152000313786459) ![playing](https://api.statusbadges.me/badge/playing/957152000313786459) ![vscode](https://api.statusbadges.me/badge/vscode/957152000313786459)
